@@ -5,7 +5,8 @@
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 @import url("components/banner.css");
 @import url("components/footer.css");
-@import url("components/card.css");
+@import url("components/cards.css");
+@import url("components/container.css");
 
 
 /* Utilities */
@@ -24,19 +25,11 @@ a {
 
 /* Custom design below! */
 
-.container {
-    width: 1000px;
-    margin: auto;
-}
 
 .text-center {
   text-align: center;
 }
 
-div {
-  display: block;
-}
 
-.cards {
-  display: inline-flex;
-}
+
+
